@@ -1,6 +1,6 @@
 import java.time.LocalDate;
 
-public class Main {
+public class Main_Pessoa {
     public static void main(String[] args){
 
         Pessoa mayzaYuri, rafaPedro;
