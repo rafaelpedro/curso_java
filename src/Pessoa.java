@@ -18,7 +18,7 @@ public class Pessoa {
     }
 
     void setNome(String nome){
-        this.nome = nome;+
+        this.nome = nome;
     }
 
     String primeiroNome(){

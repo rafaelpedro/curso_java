@@ -9,10 +9,14 @@ public class Animal {
     private String som;
 
     /*Não consegui deixar privado*/
-    LocalDate dataNascimento;
+    private LocalDate dataNascimento;
 
     void setNome(String nome){
         this.nome = nome;
+    }
+
+    void setDataNascimento(LocalDate dataNascimento){
+        this.dataNascimento = dataNascimento;
     }
 
     void setRaca(String raca){
